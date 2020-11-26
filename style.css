@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #ce6262;
+}
+
+.content {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 50%;
+}
